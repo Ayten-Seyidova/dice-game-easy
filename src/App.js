@@ -31,7 +31,7 @@ class App extends Component {
 
     setTimeout(() => {
       this.setState({ shake: false });
-    }, 1000)
+    }, 2000)
   }
 
   render() {
